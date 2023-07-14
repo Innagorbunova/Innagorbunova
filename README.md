@@ -3,6 +3,9 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 # <h3 align="center"> Выпускник Яндекс Практикума, специальность - Data Science</h3>
 
+# Hi there, I'm [Daniil](https://daniilshat.ru/) ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) 
+### Computer science student, IT news writer from Russia 🇷🇺
+
 Статистический аналитик с более чем 10-летним опытом работы, специализация - сфера правовой статистики). Выпускник Яндекс Практикума по специальности Data Science 
 
 Python, Pandas, Numpy, Matplotlib, SciPy, Scikit-learn, TensorFlow, Keras
