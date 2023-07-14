@@ -2,6 +2,7 @@
 
 Статистический аналитик с более чем 10-летним опытом работы, специализация - сфера правовой статистики. Навыки дополнены теоретической базой и решением практических задач курсов Яндекс Практикума по специальности Data Science. 
 
+#### Используемые библиотеки 
 Python, Pandas, Numpy, Matplotlib, SciPy, Scikit-learn, TensorFlow, Keras
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Innagorbunova)
