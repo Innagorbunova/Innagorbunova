@@ -5,6 +5,8 @@
 Python, Pandas, Numpy, Matplotlib, SciPy, Scikit-learn, TensorFlow, Keras
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Innagorbunova)
+
+### Репозитории
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Innagorbunova&repo=Yandex.Praktikum-Data-Science-Projects) 
 
 <!--
